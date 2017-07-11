@@ -11,19 +11,19 @@ Now let's make something awesome :tada:
 
 Weekly Schedule
 ===============
-Week | Topic              | Description                                                                                                               | Optional Topic
----- | ------------------ | ------------------------------------------------------------------------------------------------------------------------- | -------------------
-   0 | [Starting Line][1] | Prepare your development machine for the trials ahead. Get started learning by reading the resources provided.            | None
-   1 | [Hello World][2]   | Introduce the class. Establish channels of communication and coordination. Learn the basics of React development.         | None
-   2 | [Going Native][3]  | Take React and bring it to your iOS or Android phone. Get the code compiled and running on your very own phone.           | None
-   3 | Node.js & APIs     | Communicate with real-world APIs using web protocols. Discover which API best fits your interests. Introduce the backend. | Facial Recognition
-   4 | Project            | Start your very own project. Get your Github repositories setup, teams coordinated, and project plans.                    | Machine Learning
-   5 | Code Reviews       | Instructors will take this entire week to perform code reviews and provide guidance if needed.                            | Geospatial Analysis
-   6 | Office hours       | Talk with an instructor about your project to gain insight on your project.                                               | Text Analysis
-   7 | Deployment         | Prepare your code for deployment. Submit it to the Google Play Store or Apple's App Store. Load it on your phone.         | Speech Recognition
-   8 | Presentations      | Present what you've made. Every team will have 15 minutes to present with a slide show and demonstration.                 | None
+Week | Topic                       | Description                                                                                                                                                  | Optional Topic
+---- | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------
+   0 | [Starting Line][1]          | Prepare your development machine for the trials ahead. Get started learning by reading the resources provided.                                               | None
+   1 | [Hello World][2]            | Introduce the class. Establish channels of communication and coordination. Learn the basics of React development.                                            | None
+   2 | [Going Native][3]           | Take React and bring it to your iOS or Android phone. Get the code compiled and running on your very own phone.                                              | None
+   3 | Design, APIs, & GitHub      | Learn principles of good design using JavaScript and React Native. Communicate with real-world APIs using web protocols. Setup your first GitHub repository. | None
+   4 | Backends & Microsoft Azure  | Decide whether your project needs a backend. Discover Microsoft Azure's suite of Cognitive APIs. Think of moon-shot features for your project.               | Geospatial Analysis
+   5 | Office hours                | Talk with an instructor for help with the concept, features, and interface of your project. Don't be shy!                                                    | Machine Learning
+   6 | Code Reviews                | Instructors will take this entire week to perform code reviews and provide guidance if needed.                                                               | Text Analysis
+   7 | Deployment                  | Prepare your code for deployment. Submit it to the Google Play Store or Apple's App Store. Load it on your phone.                                            | Speech Recognition
+   8 | Presentations               | Present what you've made. Every team will have 15 minutes to present with a slide show and demonstration.                                                    | None
 
-Code reviews will take place at the end of every class for 45 minutes. On select classes, you can opt-out of your code review to join an instructor as he introduces a new technology. You can view these technologies under the `Optional Topic` column of the Weekly Schedule.
+Code reviews start on Week 4, and will take place at the end of every class for 45 minutes. On select classes, you can opt-out of your code review to join an instructor as he introduces a new technology. You can view these technologies under the `Optional Topic` column of the Weekly Schedule.
 
  > **Disclaimer**: *Only Macs can develop for iOS.* This means that in order to create an iPhone or iPad app, you **absolutely-without-a-doubt need a Mac**. If you are unable to acquire a Mac device, please let one of the instructors know so we can accommodate one if needed.
 
