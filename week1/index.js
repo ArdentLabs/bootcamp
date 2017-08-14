@@ -18,7 +18,7 @@ import {
 import preloader from 'spectacle/lib/utils/preloader';
 import createTheme from 'spectacle/lib/themes/default';
 
-import Emoji from '../components/emoji';
+import Emoji from '../components/Emoji';
 
 
 const images = {
